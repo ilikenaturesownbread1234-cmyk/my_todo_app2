@@ -1,0 +1,6 @@
+[theme]
+base = "dark"
+primaryColor = "#F63366"
+backgroundColor = "#246B6E"
+textColor = "#E0D9A3"
+font = "MS Gothic"
